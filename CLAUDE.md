@@ -30,12 +30,12 @@ Konkret, prioritert handlingsplan med tiltak, ansvar, ressursbehov og fremdrift.
 3. **Pilotlogikk**: Hvert tiltak designes slik at en annen bydel eller kommune kan kopiere det uten å starte fra null.
 4. **Ambisiøs planlegging, realistisk gjennomføring**: Planlegg uten ressursbegrensninger, deretter tilpass til faktisk kapasitet.
 
-## De seks planlagte tiltakene
+## De ti planlagte tiltakene
 
 ### T1 — Lokal møteplass ved krise
 Frivilligsentralene (og andre organisasjoner med fast lokale) fungerer som desentraliserte kontaktpunkter i tillegg til det ene offisielle punktet i bydelen (Persbråten VGS). Dette dekker særlig eldre og andre som ikke kan ta seg til Persbråten.
 
-Nødvendig innhold på møtestedet:
+Nødvendig innhold på møteplassen:
 - Fysisk nøkkel (uavhengig av at elektronikk virker)
 - Sikringsradio for kontakt med nødetater (110/112/113)
 - Kapasitet til enkel førstehjelp
@@ -51,7 +51,8 @@ Forhåndslagret utstyr med 24/7-tilgang — *pre-positioned equipment* — er et
 - Megafon (batteridrevet)
 - Bærbar kortbølgeradio (kan motta NRK P1/nødsendinger uten strøm)
 - Kraftbank (stor kapasitet)
-- Papirkopier av alle nøkkellister (T3-register, varslingsliste, ressursoversikt)
+- Papirsikkerhetskopi av alle nøkkellister (T3-register, T7-kompetansekart, varslingsliste — jf. hybrid lagring)
+- Mottakssett for spontanfrivillige (jf. T8): digital registrering primær (nettbrett/laptop + skriver), forhåndstrykte skjemaer som sikkerhetskopi, oppgaveoversikt, skiftlogg, navnelapper/vester
 
 **Nødkommunikasjon når digitalt nett er nede (jf. KRB 2025 — cyberangrep/strømbortfall):**
 Digital kommunikasjon er det mest sårbare punktet i alle tre toppscenarioer. Møteplassen må fungere uten mobilnett og internett:
@@ -59,7 +60,7 @@ Digital kommunikasjon er det mest sårbare punktet i alle tre toppscenarioer. M�
 - Fysisk varslingstre for nøkkelfrivillige (ringer videre nedover)
 - Forhåndsavtalt møtetidspunkt ved krise («alle nøkkelfrivillige møtes kl. 08:00 dersom varsling ikke er mulig»)
 - Oppslagstavle som primær informasjonskanal til befolkningen ved digital svikt
-- Samarbeid med NRRL (Norsk Radio Relay Liga) som har nødkommunikasjonskapasitet uavhengig av kommersiell infrastruktur
+- Samarbeid med NRRL (Norsk Radio Relæ Liga) som har nødkommunikasjonskapasitet uavhengig av kommersiell infrastruktur
 - Samarbeid med Norsk Folkehjelp og Sivilforsvaret som har eksisterende nødkommunikasjonsnettverk
 
 ### T2 — Beredskapsfrivillige
@@ -70,7 +71,8 @@ Rekruttere og kurse et fast korps av frivillige som:
 - Er kurset i de spesifikke oppgavene de skal utføre
 
 ### T3 — Register over sårbare beboere
-- Jevnlig oppdatert hardcopy-liste (ikke digitalt avhengig) med navn, adresse, tlf. til eldre og andre med behov for ikke-medisinsk hjelp
+- Jevnlig oppdatert register over eldre og andre med behov for ikke-medisinsk hjelp (navn, adresse, tlf.)
+- **Hybrid lagring:** digital primær på kryptert ekstern disk (ikke skylagring), papirsikkerhetskopi på møteplassen for tilgang ved strøm-/ekom-svikt
 - Frivillige kurset i konkrete oppgaver: mat og vann, transport, psykisk støtte, informasjonsformidling
 - Når krise inntreffer: frivillige får liste og er klare til å handle umiddelbart
 
@@ -79,24 +81,27 @@ Rekruttere og kurse et fast korps av frivillige som:
 - Målgruppe: innbyggere i bydelen generelt
 
 ### T5 — Førstehjelp for befolkningen
-- Regulære kurs, bredest mulig deltakelse
-- Samarbeid med etablerte kursaktører (Røde Kors, St. John m.fl.)
+- Regulære kurs, bredest mulig deltakelse — gratis for deltakerne
+- Frivilligsentralen er tilrettelegger, ikke kursholder
+- Samarbeid med etablerte kursaktører (Røde Kors, Norsk Folkehjelp) og lokale pensjonerte fagpersoner som instruktører
+- Finansiering: tilskudd, inntektsgenererende aktiviteter, frivillig instruktørtid
+- Oppfriskningskurs hvert 2. år lagt inn som standard
 
 ### T6 — Beredskapsvenner og nabolagsberedskap
 Konseptet har to nivåer som bygger på hverandre:
 
 **Nivå 1 — Beredskapsvenn (parvis):**
-- Videreutvikle konseptet (ref. Nesodden, DSB, Oslo kommune — allerede offisiell nasjonal politikk)
+- Videreutvikle konseptet (ref. Nesodden kommune, DSB, Oslo kommune — allerede offisiell nasjonal politikk)
 - Introdusere borettslag for konseptet via kveldsarrangementer
 - Mål: at flest mulig tar vare på seg selv og sine naboer
 
 **Nivå 2 — Beredskapsgrupper i borettslag (organisert nabolagsberedskap):**
-Inspirert av japansk *jishu-bosai-soshiki* (frivillige nabolagsberedskapsgrupper — finnes i 84 % av japanske nabolag). Etter jordskjelvet på Noto-halvøya (2024) fikk husstander kjent av nabolagsforeningen hjelp vesentlig raskere enn isolerte husstander.
+Inspirert av japansk *jishu-bosai-soshiki* (frivillige nabolagsberedskapsgrupper — finnes i 84 % av japanske nabolag). Etter jordskjelvet på Noto-halvøya (2024) fikk husstander tilknyttet en nabolagsforening hjelp vesentlig raskere enn isolerte husstander.
 
-For borettslag/sameier som vil gå lengre enn pare-avtaler:
-- Én beredskapskontakt per borettslag (frivillig rolle)
+For borettslag/sameier som vil gå lengre enn parvise avtaler:
+- Én beredskapskontakt per borettslag/sameie (frivillig rolle, ikke styreleder per automatikk)
 - Enkel kartlegging: hvem bor her, hvem kan trenge hjelp, hvem kan hjelpe?
-- Én annual aktivitet: drill, informasjonskveld, eller gjennomgang av egenberedskap
+- Én årlig aktivitet: drill, informasjonskveld, eller gjennomgang av egenberedskap
 - Tilknytning til møteplass (T1) og register (T3)
 
 **Frivilligsentralens rolle:** T6 Nivå 1 (beredskapsvennkveld) åpner døren inn til borettslagene. Nivå 2 er neste steg for borettslag som vil organisere seg videre.
@@ -105,21 +110,24 @@ For borettslag/sameier som vil gå lengre enn pare-avtaler:
 Et frivillig register over profesjonell og praktisk kompetanse blant frivillige og lokale beboere — *hvem som kan gi* spesialisert hjelp (komplementerer T3 som kartlegger *hvem som trenger* hjelp).
 
 Kompetansekategorier:
-- Helsefaglig: sykepleiere, leger, hjelpepleiere, paramedisinere
-- Teknisk: elektrikere, VVS/rørleggere, mekanikere
-- Logistikk: lastebilsjåfører, folk med tilhenger eller stor bil
-- Kommunikasjon: tolker/oversettere (og hvilke språk)
-- Sosialt: sosionomer, psykologer, folk med erfaring fra krisehåndtering
-- Praktisk: folk med generator, stor fryseboks, tilgang til egnet lokale
+- Helsefaglig: pensjonerte sykepleiere, leger, hjelpepleiere, jordmødre, ambulansepersonell
+- Teknisk: elektrikere, VVS/rørleggere, mekanikere, IT-teknikere, snekkere
+- Logistikk: sjåfører (med eller uten egen bil — frivilligsentralen har to biler tilgjengelig), folk med tilhenger, firehjulstrekk, stor varebil, tidligere lastebilsjåfører
+- Kommunikasjon: tolker og oversettere (med språk spesifisert)
+- Sosialt: pensjonerte sosionomer, psykologer, lærere med kriseerfaring
+- Praktisk: folk med generator, stor fryseboks, vedovn, egnet lokale, NRRL-medlemmer
+- Beredskapserfaring: pensjonerte fra forsvar, nødetater, Sivilforsvaret, tidligere frivillige redningsmannskaper
 
-Format: Frivillig registrering, papirkopi, oppdateres ved årlig kontakt. Holdes av frivilligsentralen — ikke delt digitalt. Frivilligsentralen vet noe om lokalsamfunnet som kommunen og nødetater ikke vet — dette er en unik ressurs.
+**Bærende prinsipp:** Kartet fanger lokalt tilgjengelig kompetanse — pensjonister og andre som ikke er på en utrykningsliste. Aktive ansatte i nødetater, forsvar, helsevesen, Sivilforsvaret, Røde Kors og andre samfunnskritiske funksjoner er **ikke målgruppen** — de er allerede koblet til en aktiveringsstruktur. Samme avgrensning som T2.
+
+Format: Frivillig opt-in. Hybrid lagring (digital primær på kryptert ekstern disk, papirsikkerhetskopi på møteplassen). Oppdateres ved årlig kontakt. Frivilligsentralen vet noe om lokalsamfunnet som kommunen og nødetater ikke vet — dette er en unik ressurs.
 
 ### T8 — Koordinering av spontanfrivillige ⚡ HØY PRIORITET
 **Dette tiltaket er kritisk og undervurdert.** Ved enhver krise møter mange mennesker opp som vil hjelpe uten å ha en forhåndsdefinert rolle. Uten koordinering blir de et logistikkproblem fremfor en ressurs. COVID-erfaringen (2020) viste at mange kommuner hadde massivt tilbud av frivillig hjelp de ikke klarte å ta imot.
 
 Hva tiltaket innebærer:
 - Utpeke én «mottakssjef» per møteplass (forhåndsrekruttert frivillig)
-- Enkel papirbasert mottaksprosedyre: registrering → oppgavetildeling → utsjekk
+- Enkel mottaksprosedyre (digital primær med utskrift, papir som sikkerhetskopi): registrering → oppgavetildeling → utsjekk
 - Registreringsskjema: navn, telefon, kompetanse, tilgjengelighet, helsetilstand
 - Klare oppgavekategorier frivillige kan plasseres i umiddelbart
 - Rutine for avslutning av skift og ivaretakelse av de frivillige selv
@@ -129,11 +137,14 @@ Hvorfor høy prioritet: Alle andre tiltak bygger *kapasitet* i forkant. T8 sørg
 ### T9 — Ungdom og skole i beredskap
 Beredskapsprogrammer for barn og unge i samarbeid med lokale skoler i Vestre Aker.
 
-Mulige former:
-- Beredskapsdager på barne- og ungdomsskoler (halvdag med praktiske øvelser)
-- Ungdomsgruppe tilknyttet beredskapsfrivillige (T2) — «junior beredskapsfrivillige»
-- Konkurranseformat: beredskapsquiz, familieoppgave («hva har dere hjemme?»)
-- Tilby læringsopplegg til skolene i tråd med EUs anbefaling om beredskap i skolekurrikulum
+**Strategisk inngang — «Innsats for andre»:** Valgfaget i ungdomsskolen er spesifikt designet for at elever skal yte strukturert samfunnsbidrag. Skolene leter aktivt etter konkrete tiltak som passer inn — T9 er en ferdig pakke som fyller et reelt behov skolen allerede har.
+
+**Eksisterende relasjoner:** Frivilligsentralen har allerede etablerte relasjoner til **to ungdomsskoler i bydelen** som er målgruppen. Vi starter ikke kaldt.
+
+Tre formater (i prioritert rekkefølge):
+1. **Juniorberedskapsfrivillige via «Innsats for andre»** *(primærspor)* — strukturert opplegg gjennom skoleåret
+2. **Beredskapsdag på skolen** — halvdag med stasjoner, gjerne med juniorberedskapsfrivillige som medarrangører
+3. **Læringsopplegg til andre lærere** — ferdige moduler skolen kan bruke uten ekstern bistand
 
 Langsiktig gevinst: Barn som lærer beredskap tar det med hjem til foreldrene — T9 multipliserer rekkevidden av T4.
 
@@ -142,11 +153,15 @@ Modell: Teen CERT (USA), EU Preparedness Union Strategy (anbefaler beredskap i s
 ### T10 — Flerspråklig beredskap
 Oversette kjernematerialet om beredskap, møteplassinformasjon og varslingsprosedyrer til de vanligste fremmedspråkene i bydelen.
 
+**Strategisk inngang — Bydelsmødre Vestre Aker:** Frivilligsentralen har godt etablert samarbeid med Bydelsmødre, som er broer mellom minoritetsmiljøer og det norske offentlige systemet. De har tillit i språkgruppene T10 skal nå og fungerer som distribusjonskanal fra dag én.
+
+**Vestre Aker-kontekst:** Lavere andel innbyggere med innvandrerbakgrunn enn østbydeler i Oslo. Lavere prioritet i pilotbydelen, men **strategisk kritisk for pilotlogikken** — modellen må fungere flerspråklig hvis den skal kunne overføres til mer flerspråklige bydeler.
+
 Bakgrunn: EU Preparedness Union Strategy anbefaler eksplisitt flerspråklig kommunikasjon. REAL-prosjektet peker på at sårbare og marginaliserte grupper ofte ikke nås av standardkommunikasjon på majoritetsspråket.
 
 Gjennomføring: DSB har allerede mye beredskapsmateriale oversatt til mange språk. Oppgaven er å tilpasse og distribuere lokalt — ikke produsere nytt materiell fra bunnen. Kompetansekartet (T7) identifiserer hvilke tolker/oversettere som finnes i nærmiljøet.
 
-Prioritering: Kartlegg de 3–5 vanligste fremmedspråkene i bydelen via bydelsstatistikk.
+Prioritering: Språkstatistikk må skaffes (frivilligsentralen har ikke oversikt i dag) — kombiner SSB/bydelsstatistikk med kvalitativ vurdering fra Bydelsmødre.
 
 ## Prioriteringsramme for tiltak
 
@@ -164,16 +179,16 @@ Høy viktighet + høy kompleksitet = planlegges, men settes i gang etter grunnst
 
 | Tiltak | Viktighet | Kompleksitet | Merknad |
 |--------|:---------:|:------------:|---------|
-| T1 — Lokal møteplass | 5 | 4 | Grunninfrastruktur for alt annet |
+| T1 — Lokal møteplass | 5 | 2→5 | Grunninfrastruktur for alt annet — kompleksitet stiger med ambisjonsnivå |
 | T2 — Beredskapsfrivillige | 5 | 3 | Bemanner T1, aktiverer T3 |
-| T3 — Register sårbare beboere | 5 | 3 | Krever personvernrutiner |
+| T3 — Register sårbare beboere | 5 | 4 | Krever personvernrutiner + hybrid digital/papir-format |
 | T4 — Beredskapskurs befolkning | 4 | 2 | Lav terskel, høy rekkevidde |
 | T5 — Førstehjelp befolkning | 4 | 2 | Samarbeid med etablerte aktører |
-| T6 — Beredskapsvenner/nabolag | 4 | 2 | Nasjonal politikk — lett å forankre |
-| **T8 — Spontanfrivillige** | **5** | **2** | **⚡ Høy prioritet — ofte glemt** |
+| T6 — Beredskapsvenner/nabolag | 4 | 2 | Nivå 1 etablert nasjonal politikk — lett å forankre; Nivå 2 er utvidelse |
 | T7 — Kompetansekart | 4 | 2 | Liten innsats, stor verdi |
-| T10 — Flerspråklig beredskap | 3 | 2 | DSB-materiale finnes allerede |
-| T9 — Ungdom og skole | 3 | 3 | Langsiktig effekt, krever skolekontakt |
+| **T8 — Spontanfrivillige** | **5** | **2** | **⚡ Høy prioritet — ofte glemt** |
+| T9 — Ungdom og skole | 3 | 3 | Langsiktig effekt — inngang via «Innsats for andre» senker terskelen |
+| T10 — Flerspråklig beredskap | 3 | 2 | DSB-materiale finnes — Bydelsmødre er etablert inngangskanal |
 
 ## Offisiell forankring — viktige funn fra kildematerialet
 
@@ -181,7 +196,7 @@ Høy viktighet + høy kompleksitet = planlegges, men settes i gang etter grunnst
 - Oslo kommunes offisielle kontaktpunkt for Bydel Vestre Aker er **kun Persbråten VGS**. Dette er et dokumentert og reelt gap som frivilligsentralene kan fylle for lokalmiljøer som ikke har tilgang dit.
 
 ### Direkte alignment med nasjonal politikk
-- **Beredskapsvenn** er aktivt anbefalt av DSB og Oslo kommune. Frivilligsentralenes T6 er allerede nasjonal politikk.
+- **Beredskapsvenn-konseptet (T6 Nivå 1)** er aktivt anbefalt av DSB og Oslo kommune — allerede etablert nasjonal politikk. T6 Nivå 2 (organiserte beredskapsgrupper i borettslag, japansk-inspirert) er en utvidelse og ikke ennå nasjonal politikk.
 - **Frivillige organisasjoner i beredskap** er nedfelt i Forskrift om kommunal beredskapsplikt § 4c: kommunen skal ha ressursoversikt over frivillige aktørers kapasitet.
 - **EU Preparedness Union Strategy (mars 2025)**: slår fast at frivillige organisasjoner og sivilsamfunn skal være i kjernen av lokal resiliens.
 
@@ -189,7 +204,7 @@ Høy viktighet + høy kompleksitet = planlegges, men settes i gang etter grunnst
 Dimensjoner tiltakene mot disse:
 1. **Bortfall av vannforsyning** — høyest risiko, svært alvorlig. Oslo avhengig av én kilde (Maridalsvannet), ny reserve ferdig 2028.
 2. **Strømbortfall/rasjonering** — stor sannsynlighet, store konsekvenser for kommunikasjon, varme, mat
-3. **Cyberangrep mot ekom** — høyest sannsynlighet av alle scenarioer. Gjør digital kommunikasjon utilgjengelig. Understreker behovet for fysisk infrastruktur (radio, hardcopy-lister).
+3. **Cyberangrep mot ekom** — høyest sannsynlighet av alle scenarioer. Gjør digital kommunikasjon utilgjengelig. Understreker behovet for fysisk infrastruktur (radio, papirsikkerhetskopi av sensitive registre — jf. hybrid lagring T3/T7).
 4. **Pandemi** — høy sannsynlighet, svært alvorlige konsekvenser
 
 ### Juridisk rammeverk
@@ -215,10 +230,8 @@ Alle kilder ligger i `kilder/`. Les disse ved start av nytt arbeid.
 | dsb_Kommunal_beredskapsplikt.md | DSB veileder til forskrift | Juridisk rammeverk |
 | Frivillige organisasjoners medvirkning...md | Doktoravhandling Aasland 2022 | Faglig begrunnelse for beredskapssamvirke |
 | forskrift.md | Selve forskriften om kommunal beredskapsplikt | Lovtekst |
-
 | internasjonale_modeller_og_tiltak.md | Internasjonale modeller (FRG, UK Hubs, CERT, Japan m.fl.) + forslag T7–T14 | Ny — mai 2026 |
-
-| tiltak_beskrivelser.md | Detaljerte beskrivelser av alle tiltak — hovedarbeidsfil | T1–T4 og T8 ferdig; T5–T7, T9–T10 gjenstår |
+| tiltak_beskrivelser.md | Detaljerte beskrivelser av alle tiltak — hovedarbeidsfil | Alle ti tiltak ferdig beskrevet |
 
 Nye kildefiler kan tilkomme. Sjekk alltid kildemappen.
 
@@ -226,32 +239,46 @@ Nye kildefiler kan tilkomme. Sjekk alltid kildemappen.
 
 | Aktør | Rolle | Status |
 |-------|-------|--------|
-| Bydel Vestre Aker | Primær samarbeidspart, beredskapsansvarlig | Dialog pågår |
-| Oslo kommune / Beredskapsetaten | Overordnet myndighet | Dialog pågår |
+| Bydel Vestre Aker | Primær samarbeidspart, beredskapsansvarlig | Eksisterende generell samarbeidsrelasjon — formell beredskapsdialog ikke startet |
+| Oslo kommune / Beredskapsetaten | Overordnet myndighet | Formell dialog ikke startet |
 | Oslo Vest Frivilligsentral | Medeier av piloten | Samarbeid etablert |
-| Røde Kors, Sivilforsvaret m.fl. | Mulige partnere | Under vurdering |
+| Bydelsmødre Vestre Aker | Bro til minoritetsmiljøer (T10) | Samarbeid etablert |
+| To ungdomsskoler i bydelen | Inngang via «Innsats for andre» (T9) | Relasjoner etablert |
+| DSB, Sivilforsvaret, Norsk Folkehjelp, Røde Kors | Opplæringspartnere og materialeleverandører (T2, T4, T5, T6, T10) | Kontakt etableres via Oslo kommunes beredskapsavdeling |
 
 ## Gjeldende arbeidsstatus
 
-**Sist jobbet med:** Tiltaksbeskrivelser — dialogisk gjennomgang med daglig leder (én om gangen, format A).
+**Sist jobbet med:** Alle ti tiltaksbeskrivelser ferdigstilt gjennom dialogisk gjennomgang med daglig leder. Helhetsgjennomgang for konsistens mellom CLAUDE.md og tiltak_beskrivelser.md gjennomført.
 
 **Ferdig beskrevet (med alle korrekturer innarbeidet):**
 - T1 — Lokal møteplass ✅
 - T2 — Beredskapsfrivillige ✅
 - T3 — Register over sårbare beboere ✅
-- T4 — Beredskapskurs for befolkningen ✅ *(to oppfølgingsspørsmål gjenstår)*
+- T4 — Beredskapskurs for befolkningen ✅
+- T5 — Førstehjelp for befolkningen ✅
+- T6 — Beredskapsvenner og nabolagsberedskap ✅
+- T7 — Kompetansekart over frivillige ✅
 - T8 — Koordinering av spontanfrivillige ✅
+- T9 — Ungdom og skole i beredskap ✅
+- T10 — Flerspråklig beredskap ✅
 
-**Gjenstår:**
-- T5 — Førstehjelp for befolkningen
-- T6 — Beredskapsvenner og nabolagsberedskap
-- T7 — Kompetansekart over frivillige
-- T9 — Ungdom og skole i beredskap
-- T10 — Flerspråklig beredskap
+**Gjenstår:** Alle ti tiltaksbeskrivelser er nå ferdig.
 
-**Neste steg når vi gjenopptar:** Start T5 — skriv utkast, presenter for daglig leder, innarbeid korrekturer.
+**Neste steg når vi gjenopptar:**
+- Oppdatere skissen til bydelen ([fase1_skisse_dialog.md](fase1_skisse_dialog.md)) med funn fra utarbeidelsen av tiltakene som ikke var med da skissen ble skrevet:
+  - T7 (kompetansekart) og T8 (spontanfrivillige) — hele tiltakene mangler i skissen
+  - Bydelsmødre (T10) som strategisk inngang til minoritetsmiljøer
+  - «Innsats for andre» (T9) og to etablerte ungdomsskole-relasjoner
+  - T5 finansieringsmodell (gratis kurs, tilskudd, frivillig instruktørtid)
+  - T6 Nivå 2 — frivilligsentralen som logistisk hub for beredskapsgrupper i borettslag
+  - Hybrid lagringsmodell (digital primær + papirsikkerhetskopi) for T3 og T7
+  - Kanal for opplæringspartnere går via Oslo kommunes beredskapsavdeling
+- Forberede dialog med beredskapsansvarlig i bydel Vestre Aker
+- Begynne planlegging av fase 2 — konkret handlingsplan med prioritering, ansvar og fremdrift
 
-### Viktige funn fra dialogrundene
+### Funn fra utarbeidelsen av tiltakene
+
+*Disse er presiseringer som har kommet frem i arbeidsdialoger med daglig leder under utarbeidelsen av tiltakene — ikke fra eksterne dialogrunder med bydel, kommune eller samarbeidspartnere (slike er ikke gjennomført ennå).*
 
 | Funn | Tiltak |
 |------|--------|
@@ -262,7 +289,14 @@ Nye kildefiler kan tilkomme. Sjekk alltid kildemappen.
 | COVID-erfaring: GDPR hindret kontakt med sårbare, ressurser gikk tapt | T3 + T8 — konkret argument for bydelen |
 | Eksisterende mottaksfrivillige kan pivotere til mottakssjef-rollen | T8 — ingen ny kompetanse nødvendig |
 | Norsk egenberedskapsanbefaling er 1 UKE (ikke 72 timer) | T4 — viktig korreksjon |
-| Ingen formell kontakt med DSB, Sivilforsvaret, Norsk Folkehjelp, Røde Kors | T2, T4, T5 — må etableres |
+| Ingen formell kontakt med DSB, Sivilforsvaret, Norsk Folkehjelp, Røde Kors — etableres via Oslo kommunes beredskapsavdeling | T2, T4, T5 — kanal definert |
+| Rekrutteringsplan til kurs må utarbeides — markedsføring må treffe det folk er bekymret for | T4, T5 |
+| Pensjonert fagperson allerede frivillig instruktør i prosjektgruppen — bevis på finansieringsmodellen | T5 |
+| Borettslag som etablerer beredskapsgrupper trenger logistisk hub fra frivilligsentralen | T6 Nivå 2 |
+| Hybrid lagringsmodell (digital primær + papirsikkerhetskopi) skal brukes for sensitive registre | T3, T7 |
+| To etablerte relasjoner til ungdomsskoler i bydelen — inngang via valgfaget «Innsats for andre» | T9 |
+| Bydelsmødre Vestre Aker er etablert samarbeidspart — strategisk inngang til minoritetsmiljøer | T10 |
+| Frivilligsentralen har ikke oversikt over språkgrupper i bydelen — informasjonen må skaffes | T10 |
 | Elektronisk lås med manuell nøkkel — kopieres til nøkkelpersoner i nærheten | T1 — nøkkelboks for usikkert |
 | Deichmanske Røa og Hovstua som mulige fremtidige møteplasser | T1 — vurderes i neste fase |
 

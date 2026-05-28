@@ -20,7 +20,7 @@ Oslo kommunes offisielle kontaktpunkt for Bydel Vestre Aker i en krisesituasjon 
 
 - Bydelen strekker seg over et stort geografisk område
 - Mange innbyggere — særlig eldre og andre med redusert mobilitet — kan ha vanskelig for å ta seg til Persbråten i en alvorlig krise (strømbortfall, ufremkommelige veier, osv.)
-- To av tre frivilligsentraler i bydelen har faste lokaler med lokal forankring og tillitsnettwerk i nærmiljøet
+- To av tre frivilligsentraler i bydelen har faste lokaler med lokal forankring og tillitsnettverk i nærmiljøet
 
 Vi mener frivilligsentralene kan fylle dette gapet — som **supplement** til kommunens offisielle struktur, aldri som erstatning.
 
@@ -102,7 +102,7 @@ Introdusere og videreutvikle beredskapsvenner-konseptet i bydelen:
 
 Vi designer dette som en **pilot**, ikke bare et lokalt prosjekt. Hvert tiltak dokumenteres slik at andre bydeler og kommuner kan kopiere modellen uten å starte fra null.
 
-Dette gir Oslo kommune en replikerbar modell for sivilsamfunnets rolle i lokal beredskap.
+Dette gir Oslo kommune en overførbar modell for sivilsamfunnets rolle i lokal beredskap.
 
 ---
 
